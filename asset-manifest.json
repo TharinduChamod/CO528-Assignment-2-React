@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb0db92f.css",
-    "main.js": "/static/js/main.8685ed31.js",
-    "static/js/453.41e50930.chunk.js": "/static/js/453.41e50930.chunk.js",
-    "index.html": "/index.html",
-    "main.fb0db92f.css.map": "/static/css/main.fb0db92f.css.map",
-    "main.8685ed31.js.map": "/static/js/main.8685ed31.js.map",
-    "453.41e50930.chunk.js.map": "/static/js/453.41e50930.chunk.js.map"
+    "main.css": "/TharinduChamod/CO528-Assignment-2-React/static/css/main.fb0db92f.css",
+    "main.js": "/TharinduChamod/CO528-Assignment-2-React/static/js/main.e45d3303.js",
+    "static/js/453.41e50930.chunk.js": "/TharinduChamod/CO528-Assignment-2-React/static/js/453.41e50930.chunk.js",
+    "index.html": "/TharinduChamod/CO528-Assignment-2-React/index.html",
+    "main.fb0db92f.css.map": "/TharinduChamod/CO528-Assignment-2-React/static/css/main.fb0db92f.css.map",
+    "main.e45d3303.js.map": "/TharinduChamod/CO528-Assignment-2-React/static/js/main.e45d3303.js.map",
+    "453.41e50930.chunk.js.map": "/TharinduChamod/CO528-Assignment-2-React/static/js/453.41e50930.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0db92f.css",
-    "static/js/main.8685ed31.js"
+    "static/js/main.e45d3303.js"
   ]
 }
